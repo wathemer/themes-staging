@@ -1,0 +1,20 @@
+WATHEMER-STORE 1 27a9405f MEYCIQCv04F8jBno0Ey9mjFsIzHrRnG0Ww26GyrRT3iXNbXTdQIhAKlcamE12p3g5+49K31NyA0UoYFN22hlWapSGRHVNepl
+{
+ "schema": 1,
+ "store": "wathemer/themes-staging",
+ "serial": 1,
+ "generated": "2026-10-07T12:04:55Z",
+ "expires": "2027-04-05",
+ "revokeKeys": [],
+ "categories": [
+  {
+   "id": "colours",
+   "name": "Colours"
+  },
+  {
+   "id": "glass",
+   "name": "Liquid Glass"
+  }
+ ],
+ "themes": []
+}
