@@ -1,9 +1,9 @@
-WATHEMER-STORE 1 27a9405f MEUCIQDDtQppG33E5a2OxTiCagmKljJ59GTShLk9u2Q9SqqFIgIgevVkT1C/NXzCEdhu7l2TXKyzk1TioiwaVuM2+YLixOU=
+WATHEMER-STORE 1 27a9405f MEUCIDNAz//1TJaa4V1WH05RuUsGdw9+wot+qMFabWk35TgwAiEAhS0zrjZOQJV196vtaZijqGJwylaTsy5JpV3qqCY5UOs=
 {
  "schema": 1,
  "store": "wathemer/themes-staging",
- "serial": 3,
- "generated": "2026-10-07T12:25:16Z",
+ "serial": 4,
+ "generated": "2026-10-07T12:26:24Z",
  "expires": "2027-04-05",
  "revokeKeys": [],
  "categories": [
@@ -16,53 +16,5 @@ WATHEMER-STORE 1 27a9405f MEUCIQDDtQppG33E5a2OxTiCagmKljJ59GTShLk9u2Q9SqqFIgIgev
    "name": "Liquid Glass"
   }
  ],
- "themes": [
-  {
-   "id": "selftest-1791375847",
-   "version": 2,
-   "name": "Glass fixture",
-   "author": "Self-test",
-   "description": "A test theme.",
-   "category": "glass",
-   "added": "2026-10-07",
-   "updated": "2026-10-07",
-   "format": 2,
-   "minApp": 245,
-   "carries": [
-    "wallpaper",
-    "font",
-    "glass"
-   ],
-   "tags": [],
-   "file": {
-    "url": "https://github.com/wathemer/themes-staging/releases/download/selftest-1791375847-v2/selftest-1791375847-v2.wathemer",
-    "size": 23614,
-    "sha256": "4d70eb4bbf12b7090d89e5e639371f6129a0a75843ffdf198e60d527960b76c8"
-   },
-   "thumb": {
-    "path": "themes/selftest-1791375847/2/thumb.webp",
-    "sha256": "27fac7a19361862e774cd8d7b95c299f27ef52d6f943b35af76fb5869f913e2a"
-   },
-   "shots": [
-    {
-     "path": "themes/selftest-1791375847/2/shot-1.webp",
-     "sha256": "a944c57c9898bd96e46893a571b01b2ad7af28e9b77a852f1fa119c379ead449"
-    },
-    {
-     "path": "themes/selftest-1791375847/2/shot-2.webp",
-     "sha256": "9cbdb03c8ea7b8b834e43f149394a708558a7a2a0ac6c7b2c9ffb445cd951b56"
-    }
-   ],
-   "preview": {
-    "header": {
-     "path": "themes/selftest-1791375847/2/theme.json",
-     "sha256": "793a8efca13438fbd019a271b07a052902e5968fb3cb3c16315f03d21f8f8f2d"
-    },
-    "wallpaper": {
-     "path": "themes/selftest-1791375847/2/wallpaper.webp",
-     "sha256": "9a9936dff3d800ac709649126e12cc211871ac635c69a7e94b43412aa0169331"
-    }
-   }
-  }
- ]
+ "themes": []
 }
