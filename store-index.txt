@@ -1,10 +1,10 @@
-WATHEMER-STORE 1 27a9405f MEUCIDNAz//1TJaa4V1WH05RuUsGdw9+wot+qMFabWk35TgwAiEAhS0zrjZOQJV196vtaZijqGJwylaTsy5JpV3qqCY5UOs=
+WATHEMER-STORE 1 a48cf502 MEUCIQD/FPIltkddpR6rtaripsGuqqFgOOrE9uo6EQYsV5SMMQIgYCS+7hjwJKOJVE12pQt5m9FenAKOiqKjehMHFkW1i/g=
 {
  "schema": 1,
  "store": "wathemer/themes-staging",
- "serial": 4,
- "generated": "2026-10-07T12:26:24Z",
- "expires": "2027-04-05",
+ "serial": 5,
+ "generated": "2026-11-02T01:42:05Z",
+ "expires": "2027-05-01",
  "revokeKeys": [],
  "categories": [
   {
