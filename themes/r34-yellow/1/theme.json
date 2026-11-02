@@ -1,0 +1,61 @@
+{
+  "app": "WaThemer",
+  "createdAt": 1793585075155,
+  "appVersion": "2.0.0beta1",
+  "glass": {
+    "displace": 25,
+    "blur": 9,
+    "tint": 8,
+    "enabled": true,
+    "saturation": 110,
+    "rowOptics": true,
+    "edgeShadow": 15,
+    "smallOptics": true,
+    "rim": 13,
+    "oneBlur": true,
+    "radius": 20,
+    "liveClarity": false,
+    "shapedBubbles": true,
+    "rimAngle": 90,
+    "navDroplet": true,
+    "bubbleMerge": true,
+    "popupMorph": true,
+    "linearCopy": true,
+    "assemble": true,
+    "bevel": 20,
+    "huedTint": true,
+    "edgeClarity": 25,
+    "glow": 50,
+    "gamma": 75,
+    "stillSkipsScroll": true,
+    "rimWidth": 2
+  },
+  "wallpaper": {
+    "image": true,
+    "dim": 50,
+    "blur": 0,
+    "enabled": true
+  },
+  "ticks": {"style": null},
+  "format": 1,
+  "name": "R34-Yellow",
+  "flags": {
+    "ios_icon_pack": false,
+    "system_bar_auto_icons": true,
+    "effect_snow": false,
+    "system_bars_enabled": false,
+    "font_map_monospace": false,
+    "chatlist_divider": false
+  },
+  "bubbles": {
+    "incoming": null,
+    "outgoing": null
+  },
+  "colors": {},
+  "font": {
+    "file": false,
+    "kind": "stock",
+    "name": "",
+    "id": ""
+  }
+}

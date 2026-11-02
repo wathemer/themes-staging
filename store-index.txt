@@ -1,9 +1,9 @@
-WATHEMER-STORE 1 a48cf502 MEUCIQD/FPIltkddpR6rtaripsGuqqFgOOrE9uo6EQYsV5SMMQIgYCS+7hjwJKOJVE12pQt5m9FenAKOiqKjehMHFkW1i/g=
+WATHEMER-STORE 1 a48cf502 MEUCIQDVOTafB5Qps6EbvTYUSRhybK2djbSB+8nJw1M9byiG/AIgEnZuOM5inH0tdmDYgKZq/yj7xYED0u18F1pawhokzRQ=
 {
  "schema": 1,
  "store": "wathemer/themes-staging",
- "serial": 5,
- "generated": "2026-11-02T01:42:05Z",
+ "serial": 6,
+ "generated": "2026-11-02T02:08:36Z",
  "expires": "2027-05-01",
  "revokeKeys": [],
  "categories": [
@@ -16,5 +16,56 @@ WATHEMER-STORE 1 a48cf502 MEUCIQD/FPIltkddpR6rtaripsGuqqFgOOrE9uo6EQYsV5SMMQIgYC
    "name": "Liquid Glass"
   }
  ],
- "themes": []
+ "themes": [
+  {
+   "id": "r34-yellow",
+   "version": 1,
+   "name": "R34-Yellow",
+   "author": "WaThemer",
+   "description": "",
+   "category": "glass",
+   "added": "2026-11-02",
+   "updated": "2026-11-02",
+   "format": 1,
+   "minApp": 245,
+   "carries": [
+    "wallpaper",
+    "glass"
+   ],
+   "tags": [],
+   "file": {
+    "url": "https://github.com/wathemer/themes-staging/releases/download/r34-yellow-v1/r34-yellow-v1.wathemer",
+    "size": 170103,
+    "sha256": "2caf6887eee7f13554732c284e970341fc857632b97ade53ed0df5f50805d829"
+   },
+   "thumb": {
+    "path": "themes/r34-yellow/1/thumb.webp",
+    "sha256": "1e6d48f5db6cd9c221c8fe31b1f6b2a65d0382af1cdb9677550e77458cd8255f"
+   },
+   "shots": [
+    {
+     "path": "themes/r34-yellow/1/shot-1.webp",
+     "sha256": "dc5d94aed7d39013442865e00b276a93bf81c9c6227a1853214b9da881d6b6b6"
+    },
+    {
+     "path": "themes/r34-yellow/1/shot-2.webp",
+     "sha256": "2803b2c96246e7a1f994f9ef02400db8ec44fdb1950482a0fe51e8e2b403b624"
+    },
+    {
+     "path": "themes/r34-yellow/1/shot-3.webp",
+     "sha256": "1612cf73d77a4349066bd452a05a7af5dbf5f3c013bef2c658c8af44d6078178"
+    }
+   ],
+   "preview": {
+    "header": {
+     "path": "themes/r34-yellow/1/theme.json",
+     "sha256": "49e5f5ce1723640c83d163231fbb86cc046aea8f8a882137f60b0bacbbfeb634"
+    },
+    "wallpaper": {
+     "path": "themes/r34-yellow/1/wallpaper.webp",
+     "sha256": "4a0d29b6d75a6bfa09d237512e9a7c67083a46663381b0008dd49e2b0cc7e323"
+    }
+   }
+  }
+ ]
 }
